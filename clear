@@ -1,0 +1,57 @@
+[33mcommit 7b177f7a6090d87e45062850312103400460ea08[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;32mfeature1[m[33m)[m
+Merge: 122f2cc a701034
+Author: SHEIKH-MOHAMMED-REHAN <smohammedrehan686@gmail.com>
+Date:   Sun Oct 20 21:35:06 2024 +0530
+
+    Add both features
+
+[33mcommit 122f2cc90e6dca244bb6b07274a72c532f191129[m
+Author: SHEIKH-MOHAMMED-REHAN <smohammedrehan686@gmail.com>
+Date:   Sun Oct 20 21:30:47 2024 +0530
+
+    Dropdown
+
+[33mcommit a7010344203694f50ef2685ea42a1265721b6db3[m
+Author: SHEIKH-MOHAMMED-REHAN <smohammedrehan686@gmail.com>
+Date:   Sun Oct 20 21:28:26 2024 +0530
+
+    Add button
+
+[33mcommit f16ad8ffabfcd9f6fd5c141a24d710e823e0614e[m[33m ([m[1;31morigin/main[m[33m)[m
+Merge: 26c4e1e 43ea723
+Author: SHEIKH-MOHAMMED-REHAN <smohammedrehan686@gmail.com>
+Date:   Sun Oct 20 20:00:17 2024 +0530
+
+    Merge pull request #1 from SHEIKH-MOHAMMED-REHAN/feature1
+    
+    Feature1
+
+[33mcommit 43ea723df6814999e9da2b28223217e952ab623c[m[33m ([m[1;31morigin/feature1[m[33m)[m
+Author: SHEIKH-MOHAMMED-REHAN <smohammedrehan686@gmail.com>
+Date:   Sun Oct 20 19:55:27 2024 +0530
+
+    Add new features
+
+[33mcommit 2e0dc09f9fc56deaa30d73b832ef83b99bd20eff[m
+Author: SHEIKH-MOHAMMED-REHAN <smohammedrehan686@gmail.com>
+Date:   Sun Oct 20 19:53:03 2024 +0530
+
+    Add new features
+
+[33mcommit 26c4e1e72f8dbac8ed17aa597f89873fd4e6f2de[m
+Author: SHEIKH-MOHAMMED-REHAN <smohammedrehan686@gmail.com>
+Date:   Sun Oct 20 19:38:16 2024 +0530
+
+    Add readme
+
+[33mcommit e384226289ea8c85b4bdf4d0b353f784d7cb964a[m
+Author: SHEIKH-MOHAMMED-REHAN <smohammedrehan686@gmail.com>
+Date:   Sun Oct 20 19:37:11 2024 +0530
+
+    Add readme
+
+[33mcommit 47fe0ef7a2a081b685ba96dcbc4a13cd5b6ec636[m
+Author: SHEIKH-MOHAMMED-REHAN <smohammedrehan686@gmail.com>
+Date:   Sun Oct 20 19:27:53 2024 +0530
+
+    Add initial files
